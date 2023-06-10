@@ -13,7 +13,10 @@ php artisan serve
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-crud/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-ajax/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-ajax/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-ajax/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-ajax/main/Screenshots/Output-04.png)
 
 
 ## 🔗 www.codehafeez.com
